@@ -1,0 +1,78 @@
+# arquivo_contantes.yaml
+
+id_jogo: '65649be88802280e198d091e'
+
+cores_marca:
+# Cores originais
+  Passou_a_bola_cor: '#009FE3'
+  Chutou_para_o_gol_cor: '#FCEA10'
+  Marcou_gol_cor: '#E6007E'
+  Fez_uma_assistencia_cor: '#1A1432'
+  Foi_derrubado_com_a_bola: '#879093'
+  branco_cor: '#CBD6DC'
+
+
+  # Cores adicionais
+  Foi_derrubado_sem_a_bola_cor: '#FF6347'
+  Nao_recebeu_a_bola_cor: '#00CED1'
+  Forcou_a_saida_de_bola_adversaria_cor: '#FFD700'
+  Foi_desarmado_cor: '#7B68EE'
+  Passe_nao_concluido_cor: '#32CD32'
+  Impedimento_cor: '#FF4500'
+
+  Perdido_cor: '#009FE3'
+  Bem-Sucedido_cor: '#FCEA10'
+  Bloqueado_cor: '#E6007E'
+
+    
+
+cores_marca_alternativo:
+# Cores originais
+  Passou_a_bola_cor: '#2e2524'
+  Chutou_para_o_gol_cor: '#4b7074'
+  Marcou_gol_cor: '#ad451a'
+  Fez_uma_assistencia_cor: '#d9a82a'
+  Foi_derrubado_com_a_bola: '#d6d8be'
+  branco_cor: '#CBD6DC'
+
+  # Cores adicionais
+  Foi_derrubado_sem_a_bola_cor: '#1A2E33'
+  Nao_recebeu_a_bola_cor: '#6E4C3E'
+  Forcou_a_saida_de_bola_adversaria_cor: '#1D3C3F'
+  Foi_desarmado_cor: '#D8B76C'
+  Passe_nao_concluido_cor: '#57676E'
+  Impedimento_cor: '#4F5D2F'
+
+  Perdido_cor: '#2e2524'
+  Bem-Sucedido_cor: '#4b7074'
+  Bloqueado_cor: '#ad451a'
+
+
+
+cores_marca_colorblind:
+# Cores originais
+  Passou_a_bola_cor: '#BF75A5' 
+  Chutou_para_o_gol_cor: '#57B4E9' 
+  Marcou_gol_cor: '#03A66A' 
+  Fez_uma_assistencia_cor: '#0072B2'  
+  Foi_derrubado_com_a_bola: '#A58AFF' 
+  branco_cor: '#CBD6DC'
+
+
+  # Cores adicionais
+  Foi_derrubado_sem_a_bola_cor: '#E72B8A'   
+  Nao_recebeu_a_bola_cor: '#F2D544' 
+  Forcou_a_saida_de_bola_adversaria_cor: '#800080'  
+  Foi_desarmado_cor: '#D75858' 
+  Passe_nao_concluido_cor: '#F29F05'  
+  Impedimento_cor: '#D95204'
+
+  Perdido_cor: '#D95204'
+  Bem-Sucedido_cor: '#03A66A'  
+  Bloqueado_cor: '#F29F05'
+
+
+cores_marca_nome:
+  azul: '#009FE3'
+  rosa: '#E6007E'
+  preto: '#1A1432'
